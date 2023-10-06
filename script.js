@@ -36,7 +36,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     clearButton.addEventListener('click', () => {
-        // Clear the results container
         resultsContainer.innerHTML = '';
     });
 });
